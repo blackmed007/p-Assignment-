@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp22
+namespace PrimeN1
 {
     class Program
     {
