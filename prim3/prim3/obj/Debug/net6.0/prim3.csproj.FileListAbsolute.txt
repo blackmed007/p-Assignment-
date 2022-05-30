@@ -1,0 +1,15 @@
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.csproj.AssemblyReference.cache
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.AssemblyInfoInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.AssemblyInfo.cs
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.csproj.CoreCompileInputs.cache
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/bin/Debug/net6.0/prim3
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/bin/Debug/net6.0/prim3.deps.json
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/bin/Debug/net6.0/prim3.runtimeconfig.json
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/bin/Debug/net6.0/prim3.dll
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/bin/Debug/net6.0/prim3.pdb
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.dll
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/refint/prim3.dll
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.pdb
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/prim3.genruntimeconfig.cache
+/Users/abdelhamid/Desktop/assigmentcp/prim3/prim3/obj/Debug/net6.0/ref/prim3.dll
